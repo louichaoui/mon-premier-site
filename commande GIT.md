@@ -55,10 +55,11 @@ regarder sur quet repository je suis => git remote -v
 changer de repo => git remote set-url origin https://github.com/<b>~~TON-USERNAME~~</b>/mon-premier-site.git.
 -------------------------------------------------------------
 créer un ficher js/HTML/CSS => new-Item index.html
-
-
 --------------------------------------------------------
 git push => git push origin SOURCE:DESTINATION
+
+----------crier un dossier avec la comande mkdir --------------------
+
 
 
 
