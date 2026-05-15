@@ -60,7 +60,7 @@ git push => git push origin SOURCE:DESTINATION
 
 ----------crier un dossier avec la comande mkdir --------------------
 
-okm
+okm massinissa
 
 
 
